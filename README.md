@@ -15,7 +15,7 @@ To load requests an XML File will also be requiered, you can use one of the XML 
 
 ## Building the app : 
 
- First `git clone https://github.com/AlexDum-dev/delivery_app.git`
+ First `git clone https://github.com/AmineSabil/delivery_app.git`
 
 Then cd into the project and open the poject on your ide. It's a maven project build on Eclipse.
 
